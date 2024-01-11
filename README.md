@@ -1,8 +1,11 @@
 
 ## YouTube Clone with API
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mohanrajmdev_Youtube-clone-api)](https://sonarcloud.io/summary/new_code?id=mohanrajmdev_Youtube-clone-api)
+
 ![Youtube Clone Image](youtube-clone.png)
 This project is a simple YouTube clone that utilizes the YouTube Data API v3 to fetch and display video content. It is built with React JS,NEXT JS, Rapid API and Tailwind CSS .
 
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=mohanrajmdev_Youtube-clone-api)
 ## Table of Contents
 - Introduction
 - Features
