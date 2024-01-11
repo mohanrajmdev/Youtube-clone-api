@@ -1,5 +1,6 @@
 
 ## YouTube Clone with API
+![Youtube Clone Image](youtube-clone.png)
 This project is a simple YouTube clone that utilizes the YouTube Data API v3 to fetch and display video content. It is built with React JS,NEXT JS, Rapid API and Tailwind CSS .
 
 ## Table of Contents
